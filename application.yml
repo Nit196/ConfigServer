@@ -1,3 +1,6 @@
+spring:
+   application:
+     name: config-Hotel
 
 eureka:
   instance:
